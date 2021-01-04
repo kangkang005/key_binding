@@ -1,5 +1,6 @@
-# 链接
+# 参考链接
     https://learnxinyminutes.com/docs/zh-cn/tmux-cn/
+    https://http://tmuxcheatsheet.com/
 # 常用快捷键
     tmux [command]      # 运行一条命令
                         # 如果单独使用 'tmux' 而不指定某个命令，将会建立一个新的会话
